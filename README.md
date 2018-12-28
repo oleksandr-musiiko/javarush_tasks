@@ -1,1 +1,0 @@
-javarush_tasks
